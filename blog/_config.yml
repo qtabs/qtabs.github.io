@@ -22,7 +22,7 @@ title: Amplified Random Noise
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Living heterogeneously is more fun.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: "https://qtabs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
