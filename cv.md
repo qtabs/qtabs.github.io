@@ -8,7 +8,7 @@ hide_title: true
 
 ## Alejandro Tabas ## 
 {: style="font-weight: 100; text-align: center"}
-### Ikerbasque Research Associate Professor in <br/> Cognitive Computational Neuroscience ###
+### Ikerbasque Research Associate Professor <br/> in Cognitive Computational Neuroscience ###
 {: style="font-weight: 100; text-align: center"}
 
 **Orcid:** 0000-0002-8643-1543
