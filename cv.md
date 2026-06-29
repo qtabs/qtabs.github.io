@@ -76,23 +76,29 @@ Emili Balaguer and André Rupp.
 
 ### Supervision ###
 
+#### Postdocs ####
+**2026-ongoing** Jasmin Stein
+
 #### PhD Students ####
+**2026-ongoing** Yiming Yu
+**2026-ongoing** Pan Zhang
 **2025-ongoing** Ekim Çelikay  
 **2024-ongoing** Monika Utroša  
 **2024-ongoing** Clémentine Levy-Fidel  
 **2019-ongoing** Heidi Järvikylä (second supervisor)  
 
 #### Master Thesis Students ####
-**2024-ongoing** Pan Zhang  
-**2022-2024** Kenza Garreau (Currently PhD Student at Kaptios)  
-**2022-2023** Heike Sönnichsen (Currently PhD Student at Universität zu Lübeck)  
+**2025-2026** Chit Yu To  
+**2024-2025** Pan Zhang  (Currently PhD student in the lab)
+**2022-2024** Kenza Garreau (Currently PhD student at Kaptios)  
+**2022-2023** Heike Sönnichsen (Currently PhD student at Universität zu Lübeck)  
 **2021-2023** Sandeep Kaur  
-**2021-2022** Hanne Schurig (Currently PhD Student at University Hospital Carl Gustav Carus Dresden)  
-**2020-2021** Jasmin Stein (Currently PhD Student at Technische Universität Dresden)  
+**2021-2022** Hanne Schurig (Currently PhD student at University Hospital Carl Gustav Carus Dresden)  
+**2020-2021** Jasmin Stein (Currently a postdoc in the lab)  
 **2020-2021** Julia Herrmann
 
-
 ### Teaching ###
+**2026-ongoing** Lecturer: Computational Neuroscience. Master Programme of the BCBL 
 **2024-ongoing** Coordinator: PhD Training Programme - Python; BCBL, Spain   
 **2022-2023** Supervisor and demonstrator: Mathematical methods and Intro to Neuroscience; Cambridge University, UK  
 **2019-2022** Lecturer: Intro to Computational and Neuroscience for Cognitive Neuroscientists. Technische Universität Dresden, Germany  
