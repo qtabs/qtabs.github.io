@@ -80,8 +80,8 @@ Emili Balaguer and André Rupp.
 **2026-ongoing** Jasmin Stein
 
 #### PhD Students ####
-**2026-ongoing** Yiming Yu
-**2026-ongoing** Pan Zhang
+**2026-ongoing** Yiming Yu  
+**2026-ongoing** Pan Zhang  
 **2025-ongoing** Ekim Çelikay  
 **2024-ongoing** Monika Utroša  
 **2024-ongoing** Clémentine Levy-Fidel  
