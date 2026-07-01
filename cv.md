@@ -89,7 +89,7 @@ Emili Balaguer and André Rupp.
 
 #### Master Thesis Students ####
 **2025-2026** Chit Yu To  
-**2024-2025** Pan Zhang  (Currently PhD student in the lab)
+**2024-2025** Pan Zhang  (Currently PhD student in the lab)  
 **2022-2024** Kenza Garreau (Currently PhD student at Kaptios)  
 **2022-2023** Heike Sönnichsen (Currently PhD student at Universität zu Lübeck)  
 **2021-2023** Sandeep Kaur  
