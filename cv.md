@@ -42,13 +42,19 @@ Emili Balaguer and André Rupp.
 
 ### Grants and awards ###
 
+**2026** 2023 AEI Knowledge Generation Project Grant (PID2025-169017NA-I00). Spanish State Research Agency (AEI).
+182,500k€ (base) + 134,615€ (one FPI PhD position) over 4 years (2026–2030).
+
+**2026** Elected full member (académico de número) of the Young Academy of Spain (Sept 2026 - Sept 2031).
+
 **2023** ERC Starting Grant (SynPrePro 101115798). European Research Council.
-1.5M€ over 5 years to start my own independent research group (March 2024 - March 2029)
+1.5M€ over 5 years to start my own independent research group (March 2024 - March 2029).
 
-**2023** Ramón y Cajal Fellowship (ref RYC2022-036078-I). Agencia Estatal de Investigación, Spain. 244350€ over 5 years to co-finance my salary in a Spanish research institution.
+**2023** Ramón y Cajal Fellowship (ref RYC2022-036078-I). Agencia Estatal de Investigación, Spain. 
+244,350€ over 5 years to co-finance my salary in a Spanish research institution.
 
-**2022** Forschungspool Aid for grant writing Technische Universität Dresden.
-8888€ for funding my own position to support the writing of a DFG Grant Proposal
+**2022** Forschungspool Aid for grant writing Technische Universität Dresden. 
+8888€ for funding my own position to support the writing of a DFG Grant Proposal.
 
 **2016** Santander Mobility Award. Santander UK plc. £1000 award for attending international conferences.
 
