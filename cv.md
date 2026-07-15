@@ -32,12 +32,13 @@ Mate Lengyel, Guillaume Hennequin, and Daniel Wolpert.
 **2017-2019** Postdoctoral Fellow; Max Plank Institute for Human Cognitive and Brain Sciences, Germany. Supervised by Katharina von Kriegstein.
 
 ### Education ###
+
 **2013-2017** Doctor of Philosopy; Bournemouth University, UK. Supervised by 
 Emili Balaguer and André Rupp.
 
 **2013-2017** Master in Artificial Intelligence; Universität Politècnica de Catalunya + Universität de Barcelona.
 
-**2005-2011** Diploma in Theoretical Physics (BSc + MSc equivalent); Universität de Barcelona + Universidad Complutense de Madrid.
+**2005-2011** Licenciatura (BSc + MSc equivalent) in Theoretical Physics; Universität de Barcelona + Universidad Complutense de Madrid.
 
 
 ### Grants and awards ###
