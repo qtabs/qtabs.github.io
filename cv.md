@@ -90,7 +90,7 @@ Emili Balaguer and André Rupp.
 **2026-ongoing** Yiming Lu  
 **2026-ongoing** Pan Zhang  
 **2025-ongoing** Ekim Çelikay  
-**2024-ongoing** Monika Utroša Škerjanec
+**2024-ongoing** Monika Utroša Škerjanec  
 **2024-ongoing** Clémentine Levy-Fidel  
 **2019-ongoing** Heidi Järvikylä (second supervisor)  
 
