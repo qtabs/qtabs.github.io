@@ -44,7 +44,7 @@ Emili Balaguer and André Rupp.
 ### Grants and awards ###
 
 **2026** 2023 AEI Knowledge Generation Project Grant (PID2025-169017NA-I00). Spanish State Research Agency (AEI).
-182,500k€ (base) + 134,615€ (one FPI PhD position) over 4 years (2026–2030).
+182,500€ (base) + 134,615€ (one FPI PhD position) over 4 years (2026–2030).
 
 **2026** Elected full member (académico de número) of the Young Academy of Spain (Sept 2026 - Sept 2031).
 
