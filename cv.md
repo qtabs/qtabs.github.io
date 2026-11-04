@@ -31,15 +31,6 @@ Mate Lengyel, Guillaume Hennequin, and Daniel Wolpert.
 
 **2017-2019** Postdoctoral Fellow; Max Plank Institute for Human Cognitive and Brain Sciences, Germany. Supervised by Katharina von Kriegstein.
 
-### Education ###
-
-**2013-2017** Doctor of Philosopy; Bournemouth University, UK. Supervised by 
-Emili Balaguer and André Rupp.
-
-**2013-2017** Master in Artificial Intelligence; Universität Politècnica de Catalunya + Universität de Barcelona.
-
-**2005-2011** Licenciatura (BSc + MSc equivalent) in Theoretical Physics; Universität de Barcelona + Universidad Complutense de Madrid.
-
 
 ### Grants and awards ###
 
@@ -67,8 +58,9 @@ Emili Balaguer and André Rupp.
 
  
 ### Peer-reviewed publications ###
-* A. Tabas, S. Kiebel, M. Marxen, K. von Kriegstein (2024) [Fast frequency modulation is encoded according to the listener expectations in the human subcortical auditory pathway](https://doi.org/10.1162/imag_a_00292). Imaging Neuroscience (2024) 2: 1–20.
-* S. Schelinski, L. Kauﬀmann, Al. Tabas, C. Müller-Axt, K. von Kriegstein (2024) [Functional alterations of the magnocellular subdivision of the visual sensory thalamus in autism](https://doi.org/10.1073/pnas.2413409121). PNAS 121 (47) e2413409121
+* A. Tabas, J. Fiszer, M. Lengyel, L. de Hoz (2025) [Structuring the World: Statistical Learning From the Top and From the Bottom](https://doi.org/10.1111/ejn.70712). European Journal of Neuroscience (2026) 64(8): e70712.
+* A. Tabas, S. Kiebel, M. Marxen, K. von Kriegstein (2024) [Fast frequency modulation is encoded according to the listener expectations in the human subcortical auditory pathway](https://doi.org/10.1162/imag_a_00292). Imaging Neuroscience (2024) 2:1–20.
+* S. Schelinski, L. Kauﬀmann, Al. Tabas, C. Müller-Axt, K. von Kriegstein (2024) [Functional alterations of the magnocellular subdivision of the visual sensory thalamus in autism](https://doi.org/10.1073/pnas.2413409121). PNAS 121(47):e2413409121
 * A. Tabas, K. von Kriegstein (2023) [Multiple concurrent predictions inform prediction error in the human auditory pathway](https://doi.org/10.1523/JNEUROSCI.2219-22.2023). Journal of Neuroscience JN-RM-2219-22
 * J. Stein, K. von Kriegstein, A. Tabas (2022) [Predictive encoding of pure tones and FM-sweeps in the human auditory cortex](https://doi.org/10.1093/texcom/tgac047). Cerebral Cortex Communications 3(4):tgac047
 * A. Tabas, K. von Kriegstein (2021) [Neural modelling of the encoding of fast frequency modulation](https://doi.org/10.1371/journal.pcbi.1008787). PLoS Computational Biology 17(3):e1008787
@@ -87,6 +79,7 @@ Emili Balaguer and André Rupp.
 **2026-ongoing** Jasmin Stein
 
 #### PhD Students ####
+**2026-ongoing** Jacy To    
 **2026-ongoing** Yiming Lu  
 **2026-ongoing** Pan Zhang  
 **2025-ongoing** Ekim Çelikay  
@@ -94,19 +87,32 @@ Emili Balaguer and André Rupp.
 **2024-ongoing** Clémentine Levy-Fidel  
 **2019-ongoing** Heidi Järvikylä (second supervisor)  
 
+#### Research Assistants ####
+**2026-ongoing** Alessia Nassoni    
+
 #### Master Thesis Students ####
-**2025-2026** Chit Yu To  
-**2024-2025** Pan Zhang  (Currently PhD student in the lab)  
-**2022-2024** Kenza Garreau (Currently PhD student at Kaptios)  
-**2022-2023** Heike Sönnichsen (Currently PhD student at Universität zu Lübeck)  
+**2025-2026** Jacy To (Currently a PhD student in the lab)  
+**2024-2025** Pan Zhang (Currently a PhD student in the lab)  
+**2022-2024** Kenza Garreau (Currently a PhD student at Kaptios)  
+**2022-2023** Heike Sönnichsen (Currently a PhD student at Universität zu Lübeck)  
 **2021-2023** Sandeep Kaur  
 **2021-2022** Hanne Schurig (Currently PhD student at University Hospital Carl Gustav Carus Dresden)  
 **2020-2021** Jasmin Stein (Currently a postdoc in the lab)  
 **2020-2021** Julia Herrmann
 
 ### Teaching ###
-**2026-ongoing** Lecturer: Computational Neuroscience. Master Programme of the BCBL 
+**2026-ongoing** Curriculum committee member: Computational Behaviour. Computational Neuroscience. Neuromatch
+**2026-ongoing** Lecturer: Computational Neuroscience. Master Programme of the BCBL, Spain
 **2024-ongoing** Coordinator: PhD Training Programme - Python; BCBL, Spain   
 **2022-2023** Supervisor and demonstrator: Mathematical methods and Intro to Neuroscience; Cambridge University, UK  
 **2019-2022** Lecturer: Intro to Computational and Neuroscience for Cognitive Neuroscientists. Technische Universität Dresden, Germany  
 **2014-2016** Teaching Assistant and Demonstrator: Maths support for Design and Engeneering; Computers and Networks. Bournemouth University, UK  
+
+### Education ###
+**2013-2017** Doctor of Philosopy; Bournemouth University, UK.
+Supervised by Emili Balaguer and André Rupp.  
+**2013-2017** Master in Artificial Intelligence;
+Universität Politècnica de Catalunya + Universität de Barcelona.  
+**2005-2011** Licenciatura (BSc + MSc equivalent) in Theoretical Physics; 
+Universität de Barcelona + Universidad Complutense de Madrid.
+
