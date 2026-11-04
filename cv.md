@@ -101,8 +101,8 @@ Mate Lengyel, Guillaume Hennequin, and Daniel Wolpert.
 **2020-2021** Julia Herrmann
 
 ### Teaching ###
-**2026-ongoing** Curriculum committee member: Computational Behaviour. Computational Neuroscience. Neuromatch
-**2026-ongoing** Lecturer: Computational Neuroscience. Master Programme of the BCBL, Spain
+**2026-ongoing** Curriculum committee member: Computational Behaviour. Computational Neuroscience. Neuromatch  
+**2026-ongoing** Lecturer: Computational Neuroscience. Master Programme of the BCBL, Spain  
 **2024-ongoing** Coordinator: PhD Training Programme - Python; BCBL, Spain   
 **2022-2023** Supervisor and demonstrator: Mathematical methods and Intro to Neuroscience; Cambridge University, UK  
 **2019-2022** Lecturer: Intro to Computational and Neuroscience for Cognitive Neuroscientists. Technische Universität Dresden, Germany  
